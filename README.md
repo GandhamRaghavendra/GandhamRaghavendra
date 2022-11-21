@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Chiranjivi Pattanayak</h1>
-<h3 align="center">Software Developer from Balasore, Odisha (India)</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm G Raghavendra Murty</h1>
+<h3 align="center">Software Developer from Odisha(India)</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&color=white&width=650&height=80&lines=Java+Backend+Developer+;Passionate+To+Develop+Scalable+Products+;Always+Learning+New+Things+;Quick+Learner;&center=true&width=640&height=45&vCenter=true&size=25" />

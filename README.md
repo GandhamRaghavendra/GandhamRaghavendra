@@ -6,7 +6,7 @@
 </p>
 
 <!-- <p>
-<img align="center" width="250px" height="190px" src="https://github.com/chiranjivi-7/chiranjivi-7/blob/main/codegif.gif?raw=true" alt="GIF" />
+<img align="center" width="250px" height="190px" src="https://github.com/GandhamRaghavendra/GandhamRaghavendra/blob/main/codegif.gif?raw=true" alt="GIF" />
 </p> -->
 
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about Java, Javascript, HTML, CSS, MySQL, I am happy to help
 
-- 📫 Reach out to me on **chiranjivipattanayak@gmail.com**
+- 📫 Reach out to me on **graghavendramurty13@gmail.com**
 
 - ⚡ In my leisure time, **I love to watch cricket**
 
@@ -48,7 +48,7 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivi-7&theme=radical" alt="chiranjivi-7" /></p>
-<!-- <p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Chiranjivi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjivi-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!-- <p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Raghu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GandhamRaghavendra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p> -->
 <!-- 
   <a   href="https://github.com/akash-github-25/github-readme-stats"><img alt="Akash Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-github-25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
@@ -63,7 +63,7 @@
 
 <br/>
 
-<a href="https://github.com/chiranjivi-7/github-readme-activity-graph"><img alt="Chiranjivi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chiranjivi-7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/chiranjivi-7/github-readme-activity-graph"><img alt="Raghu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GandhamRaghavendra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 

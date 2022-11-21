@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raghavendra-gandham-80a82a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="45" width="50" /></a>
-  <a href="https://twitter.com/CPattanayak93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CPattanayak93" height="50" width="70" /></a>
+  <a href="https://twitter.com/CPattanayak93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GandhamRaghavendra" height="50" width="70" /></a>
 </p>
 
 <hr />
@@ -40,26 +40,26 @@
 <h3 align="center">Chiranjivi Pattanayak's GitHub Stats:</h3>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GandhamRaghavendra&show_icons=true&theme=radical&locale=en&layout=compact" alt="chiranjivi-7" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GandhamRaghavendra&show_icons=true&theme=radical&locale=en" alt="chiranjivi-7" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GandhamRaghavendra&show_icons=true&theme=radical&locale=en" alt="GandhamRaghavendra" /></p> -->
 
 <!--  <p align="center">
   <img align="center" height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GandhamRaghavendra&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p> -->
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivi-7&theme=radical" alt="chiranjivi-7" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivi-7&theme=radical" alt="GandhamRaghavendra" /></p>
 <!-- <p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Raghu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GandhamRaghavendra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p> -->
 <!-- 
-  <a   href="https://github.com/akash-github-25/github-readme-stats"><img alt="Akash Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-github-25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a   href="https://github.com/akash-github-25/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GandhamRaghavendra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 
 <!-- <p align="center">
-  <img  align="center"  height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en&theme=radical" />
+  <img  align="center"  height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api?username=GandhamRaghavendra&show_icons=true&locale=en&theme=radical" />
 </p>  -->
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivi-7&show_icons=true&locale=en&layout=compact&theme=radical" alt="chiranjivi-7" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GandhamRaghavendra&show_icons=true&locale=en&layout=compact&theme=radical" alt="GandhamRaghavendra" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en&theme=radical" alt="chiranjivi-7" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GandhamRaghavendra&show_icons=true&locale=en&theme=radical" alt="GandhamRaghavendra" /></p> -->
 
 <br/>
 
@@ -76,7 +76,7 @@
     <a href="mailto:chiranjivipattanayak@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://linkedin.com/in/chiranjivi-pattanayak-b02784197"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-<!--   <p align="center"> <img src="https://gpvc.arturio.dev/chiranjivi-7" alt="chiranjivi-7" /> </p> -->
+<!--   <p align="center"> <img src="https://gpvc.arturio.dev/chiranjivi-7" alt="GandhamRaghavendra" /> </p> -->
   
 </p>
 

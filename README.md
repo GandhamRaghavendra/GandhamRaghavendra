@@ -15,6 +15,10 @@
 - 💬 Ask me about Java, Javascript, HTML, CSS, MySQL, I am happy to help
 
 - 📫 Reach out to me on **graghavendramurty13@gmail.com**
+- 
+- 👨‍💻 All of my projects are available at [My Portfolio]()
+
+- 📄 Know About Me [My Resume]()
 
 - ⚡ In my leisure time, **I love to watch cricket**
 

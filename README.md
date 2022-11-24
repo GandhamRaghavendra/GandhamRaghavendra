@@ -16,11 +16,11 @@
 
 - 📫 Reach out to me on **graghavendramurty13@gmail.com**
 
-- 👨‍💻 All of my projects are available at [My Portfolio]()
+- 👨‍💻 All of my projects are available at [My Portfolio](https://gandhamraghavendra.github.io)
 
-- 📄 Know About Me [My Resume]()
+- 📄 Know About Me [My Resume](https://drive.google.com/file/d/1hIr0LUVvMTMNObABQRWmd0lV6EHfgvQM/view?usp=share_link)
 
-- ⚡ In my leisure time, **I love to watch cricket**
+- ⚡ In my leisure time, **I love to watch cricket**,**Play Video games**
 
 <hr />
 

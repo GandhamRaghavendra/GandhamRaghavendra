@@ -49,7 +49,7 @@
 <h3 align="center">Want To Get In Touch? Reach Out To Me On 👇</h3>
   
   <p align="center">
-    <a href="graghavendramurty13@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="mailto:graghavendramurty13@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/raghavendra-gandham-80a82a203"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 </p>
 

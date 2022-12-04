@@ -10,7 +10,7 @@
 
 - 💻 I’m a Java Backend Developer</hr>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring**,**Spring Boot**
 
 - 💬 Ask me about Java, Javascript, HTML, CSS, MySQL, I am happy to help
 

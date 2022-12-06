@@ -38,10 +38,9 @@
 <hr />
 <h3 align="center">G Raghavendra's GitHub Stats:</h3>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GandhamRaghavendra&theme=black-ice&hide_border=true&stroke=0000&background=181818" alt="Raghu's Stats"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GandhamRaghavendra&theme=radical" alt="chiranjivi-7" /></p>
-
-<!-- <a href="https://github.com/chiranjivi-7/github-readme-activity-graph"><img alt="Raghu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GandhamRaghavendra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GandhamRaghavendra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=181818" alt="Raghu's Stats"/></p>
 
 <br/>
 <hr />

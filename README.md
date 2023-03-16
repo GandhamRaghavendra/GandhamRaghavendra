@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Spring**,**Spring Boot**
 
-- 💬 Ask me about Java, Javascript, HTML, CSS, MySQL, I am happy to help
+- 💬 Ask me about Java, Spring, SpringBoot, MySQL, Js, HTML, CSS, I am happy to help
 
 - 📫 Reach out to me on **graghavendramurty13@gmail.com**
 

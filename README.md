@@ -16,7 +16,7 @@
 
 - 📫 Reach out to me on **graghavendramurty13@gmail.com**
 
-- 👨‍💻 All of my projects are available at <a href="https://gandhamraghavendra.github.io" target="_blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at [gandhamraghavendra.github.io](https://gandhamraghavendra.github.io)
 
 - 📄 Know About Me <a href="https://drive.google.com/file/d/1vMYw6vsST_S1pNEbceREOjyA4SG8RSpg/view" target="_blank">My Resume</a>
 

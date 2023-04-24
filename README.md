@@ -16,9 +16,9 @@
 
 - 📫 Reach out to me on **graghavendramurty13@gmail.com**
 
-- 👨‍💻 All of my projects are available at <a href="https://gandhamraghavendra.github.io" target="blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://gandhamraghavendra.github.io" target="_blank">My Portfolio</a>
 
-- 📄 Know About Me <a href="https://drive.google.com/file/d/1vMYw6vsST_S1pNEbceREOjyA4SG8RSpg/view" target="blank">My Resume</a>
+- 📄 Know About Me <a href="https://drive.google.com/file/d/1vMYw6vsST_S1pNEbceREOjyA4SG8RSpg/view" target="_blank">My Resume</a>
 
 - ⚡ In my leisure time, **I listen to music, love to watch and play cricket**
 

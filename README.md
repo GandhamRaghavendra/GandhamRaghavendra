@@ -42,6 +42,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GandhamRaghavendra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=181818" alt="Raghu's Stats"/></p>
 
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GandhamRaghavendra&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" /></p>
 <br/>
 <hr />
 

@@ -10,7 +10,7 @@
 
 - 💻 I’m a Java Backend Developer</hr>
 
-- 🌱 I’m currently learning **Spring**,**Spring Boot**,**Micro-Services**,**Spring-Security**
+- 🌱 I’m currently learning **Spring**,**SpringBoot**,**Micro-Services**,**Spring-Security**
 
 - 💬 Ask me about Java, Spring, SpringBoot, MySQL, Js, HTML, CSS, I am happy to help
 

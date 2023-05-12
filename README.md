@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [gandhamraghavendra.github.io](https://gandhamraghavendra.github.io)
 
-- 📄 Know About Me <a href="https://drive.google.com/file/d/1vMYw6vsST_S1pNEbceREOjyA4SG8RSpg/view" target="_blank">My Resume</a>
+- 📄 Know About Me <a href="https://drive.google.com/file/d/1vMYw6vsST_S1pNEbceREOjyA4SG8RSpg/view" target="_blank">My Resume.</a>
 
 - ⚡ In my leisure time, **I listen to music, love to watch and play cricket**
 
